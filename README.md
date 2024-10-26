@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @2com-eng-reg
 - 👀 I’m interested in not much
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ (as a hobby)
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me (no)
 - 😄 Pronouns: he/him/his + they/them + any/all
